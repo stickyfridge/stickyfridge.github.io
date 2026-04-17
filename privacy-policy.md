@@ -27,7 +27,7 @@
 **Content you create (required to use the product)**
 - Tracker configurations (name, icon, template)
 - Daily entries: text notes, numeric fields, photos you attach, timestamps
-- Reactions and comments on your own entries and entries shared with you as a witness
+- Reactions and comments on your own entries and entries shared with you as a supporter
 - Invite codes you create or accept
 
 **Device + usage data**
@@ -42,7 +42,7 @@
 - We do **not** collect plaintext phone numbers of your contacts.
 - We do **not** sell, rent, or share your personal data with advertisers.
 - We do **not** use third-party advertising SDKs.
-- We do **not** read the content of your photos for any purpose other than displaying them to you and the witnesses you invite.
+- We do **not** read the content of your photos for any purpose other than displaying them to you and the supporters you invite.
 - We do **not** track you across other apps or websites.
 
 ### 4. Why we collect it (legal basis under GDPR / KVKK)
@@ -53,13 +53,13 @@
 
 ### 5. Who sees your content
 - **You:** everything you create.
-- **Witnesses you explicitly invite:** the specific tracker you invited them to, its entries (including photos + notes), your reactions and comments.
+- **Supporters you explicitly invite:** the specific tracker you invited them to, its entries (including photos + notes), your reactions and comments.
 - **No one else** sees your trackers or entries. A user who guesses your username or email cannot access your data.
-- Witnesses can react and comment; you can delete your own comments and revoke any witness at any time.
+- Supporters can react and comment; you can delete your own comments and revoke any supporter at any time.
 
 ### 6. Storage + security
 - Content is stored on Cloudflare R2 (private bucket, US/EU region) and Railway-hosted PostgreSQL (EU region).
-- Image access is authenticated: only you and your active witnesses can fetch your photos.
+- Image access is authenticated: only you and your active supporters can fetch your photos.
 - Phone numbers, when provided, are HMAC-SHA256 hashed with a server-held pepper before being compared against other users' hashes. We never compare plaintext.
 - All connections are TLS-encrypted.
 
@@ -102,88 +102,88 @@ We will notify you of material changes to this policy via in-app notification an
 ## Türkçe
 
 ### 1. Kimiz?
-"Fridge" ("biz" veya "Uygulama") Mustafa Kemal Çelik tarafından Mersin, Türkiye'de işletilmektedir. İletişim: **mkceliks@gmail.com**.
+"Fridge" ("biz" ya da "Uygulama") Mustafa Kemal Çelik tarafından Mersin, Türkiye'den işletiliyor. İletişim: **mkceliks@gmail.com**.
 
 ### 2. Topladığımız veriler
 
 **Hesap bilgileri (zorunlu)**
-- E-posta adresi (Apple ile, Google ile veya magic-link doğrulaması üzerinden)
+- E-posta adresi (Apple, Google ya da giriş bağlantısı doğrulamasıyla)
 - Belirlediğin isim
 - Seçtiğin @kullanıcı adı
 
-**Profil bilgileri (isteğe bağlı)**
+**Profil bilgileri (opsiyonel)**
 - Yüklediğin profil fotoğrafı
-- İsteğe bağlı telefon numarası (E.164 formatında) — sadece kişi-eşleme özelliğini açtıysan
+- Telefon numarası (E.164 formatında) — yalnızca rehber eşleştirmeyi açtıysan
 - Dil tercihi ve saat dilimi
 
 **Oluşturduğun içerik (ürünü kullanmak için gerekli)**
-- Takip yapılandırmaları (ad, ikon, şablon)
+- Takip yapılandırmaları (ad, simge, şablon)
 - Günlük kayıtlar: notlar, sayısal alanlar, eklediğin fotoğraflar, zaman damgaları
-- Kendi kayıtlarına veya şahit olduğun kayıtlara verdiğin tepkiler ve yorumlar
-- Oluşturduğun veya kabul ettiğin davet kodları
+- Kendi kayıtlarına ya da destekçisi olduğun kayıtlara verdiğin tepkiler ve yorumlar
+- Oluşturduğun ya da kabul ettiğin davet kodları
 
 **Cihaz + kullanım verisi**
-- Bildirimleri ulaştırabilmek için push-notification token (Apple/Google sağlar)
+- Bildirim gönderebilmek için push-notification token (Apple/Google üzerinden)
 - Telemetri olayları (`tracker_created`, `entry_created`, `app_opened` gibi)
-- Expo üzerinden toplanan anonim cihaz modeli, OS sürümü, uygulama sürümü, kilitlenme logları
+- Expo üzerinden toplanan cihaz modeli, işletim sistemi sürümü, uygulama sürümü ve çökme/performans logları
 
-**Kişi-eşleme (sadece opt-in)**
-- Kişiler iznini verirsen, rehberindeki numaraların HMAC-SHA256 tek yönlü özetleri sunucuya gönderilir. **Gerçek numaralar telefonundan hiç çıkmaz.** Sadece eşleşen özetler geri döner.
+**Rehber eşleşmesi (yalnızca sen açarsan)**
+- Rehber iznini verirsen, rehberindeki numaraların HMAC-SHA256 tek yönlü özetleri sunucuya gönderilir. **Numaralar telefonundan açık metin olarak asla çıkmaz.** Sadece Fridge'de kayıtlı olanların özetleri eşleşme olarak geri döner.
 
 ### 3. Toplamadıklarımız
 - Rehberindeki kişilerin **telefon numaralarını açık metin olarak toplamayız.**
-- Kişisel veriyi **reklamverene satmayız, kiralamayız, paylaşmayız.**
+- Kişisel veriyi **reklamverene satmaz, kiralamaz, paylaşmayız.**
 - **Üçüncü taraf reklam SDK'sı kullanmayız.**
-- Fotoğraflarının içeriğini, sana ve davet ettiğin şahitlere göstermek dışında hiçbir amaçla okumayız.
-- Başka uygulama veya web sitelerinde seni takip etmeyiz.
+- Fotoğraflarının içeriğini, sana ve davet ettiğin destekçilere göstermek dışında hiçbir amaçla okumayız.
+- Başka uygulama ya da web sitelerinde seni takip etmeyiz.
 
 ### 4. Neden topluyoruz (KVKK / GDPR hukuki dayanak)
 - **Hizmetin sağlanması (sözleşme):** hesap, takip, kayıt, davet, tepki, yorum verisi.
-- **Kimlik doğrulama ve kötüye kullanım engelleme (meşru menfaat):** auth token'ları, rate-limit sayaçları, telemetri.
-- **Bildirimler (açık rıza):** push token — iOS/Android bildirim ayarlarından kapatılabilir.
-- **Kişi-eşleme (açık rıza):** telefon özeti — Kişiler iznini veya profilinden telefonu silerek iptal edebilirsin.
+- **Kimlik doğrulama ve kötüye kullanımın önlenmesi (meşru menfaat):** auth token'ları, rate-limit sayaçları, telemetri.
+- **Bildirimler (açık rıza):** push token — iOS/Android bildirim ayarlarından kapatabilirsin.
+- **Rehber eşleşmesi (açık rıza):** telefon özeti — rehber iznini kaldırarak ya da profilinden telefonu silerek iptal edebilirsin.
 
 ### 5. İçeriğini kimler görür?
 - **Sen:** oluşturduğun her şey.
-- **Açıkça davet ettiğin şahitler:** onları davet ettiğin belirli takip + kayıtları (fotoğraflar + notlar dâhil) + tepkiler + yorumlar.
-- **Başka kimse** takibine veya kaydına erişemez. Kullanıcı adını tahmin eden biri senin verine ulaşamaz.
-- Şahitler tepki verebilir ve yorum yazabilir; kendi yorumlarını silebilir, herhangi bir şahidi istediğin an kaldırabilirsin.
+- **Davet ettiğin destekçiler:** yalnızca onları davet ettiğin belirli takip + o takibin kayıtları (fotoğraflar ve notlar dâhil) + tepkiler + yorumlar.
+- **Başka kimse** takibine ya da kaydına erişemez. Kullanıcı adını tahmin eden biri verilerine ulaşamaz.
+- Destekçiler tepki bırakıp yorum yazabilir; kendi yorumlarını silebilirler. Sen de istediğin an bir destekçiyi kaldırabilirsin.
 
 ### 6. Depolama + güvenlik
 - İçerik Cloudflare R2 (özel bucket, AB/ABD bölgesi) ve Railway üzerindeki PostgreSQL'de (AB bölgesi) saklanır.
-- Görsel erişimi kimlik doğrulamalıdır: sadece sen ve aktif şahitlerin fotoğraflarını çekebilir.
-- Telefon numaraları (verildiğinde) karşılaştırmadan önce sunucu tarafında tutulan bir "pepper" ile HMAC-SHA256 özetine çevrilir. Açık metin karşılaştırma yapmayız.
-- Tüm bağlantılar TLS şifrelidir.
+- Görsel erişimi kimlik doğrulamalıdır: yalnızca sen ve aktif destekçilerin fotoğraflarına ulaşabilir.
+- Telefon numaraları (verildiğinde), karşılaştırmadan önce sunucuda tutulan bir "pepper" ile HMAC-SHA256 özetine çevrilir. Açık metin karşılaştırma yapmayız.
+- Tüm bağlantılar TLS ile şifrelenir.
 
 ### 7. Saklama süresi
-- Kayıtlar, fotoğraflar ve takipler hesabın aktif olduğu sürece saklanır.
-- Silinen (arşivlenen) takipler ve soft-delete edilmiş yorumlar silinmeden 30 güne kadar veritabanında tutulur, sonra kalıcı olarak silinir.
-- Aktif olmayan hesaplar: Üst üste 24 ay kullanılmayan hesaplar, 30 günlük e-posta uyarısından sonra silinebilir.
-- **Ayarlar → Hesabı sil** yolundan istediğin zaman hesabını silebilirsin. Silinme sonrası kişisel veri 30 gün içinde tamamen temizlenir (yasal zorunluluk farklı ise bu süre değişebilir).
+- Kayıtlar, fotoğraflar ve takipler, hesabın aktif olduğu sürece saklanır.
+- Silinen (arşivlenen) takipler ve soft-delete edilmiş yorumlar veritabanında 30 güne kadar tutulur, sonra kalıcı olarak silinir.
+- Aktif olmayan hesaplar: Üst üste 24 ay kullanılmayan hesaplar, 30 günlük e-posta uyarısının ardından silinebilir.
+- **Ayarlar → Hesabı sil** yolundan istediğin zaman hesabını silebilirsin. Silme sonrası kişisel verilerin 30 gün içinde tamamen temizlenir (yasal zorunluluk aksini gerektirmiyorsa).
 
 ### 8. Haklarınız (KVKK / GDPR)
-- Verilerinin kopyasını almak (**mkceliks@gmail.com** — 30 gün içinde cevap).
-- Yanlış veriyi düzeltmek (Ayarlar'dan doğrudan veya e-posta ile).
+- Verilerinin bir kopyasını almak (**mkceliks@gmail.com** — 30 gün içinde yanıt).
+- Yanlış veriyi düzeltmek (Ayarlar'dan doğrudan ya da e-posta ile).
 - Hesabını ve ilgili tüm veriyi silmek.
-- İşlemeye itiraz etmek veya sınırlamak.
-- Veriyi makineyle okunabilir formatta başka bir servise taşımak.
-- Yerel veri koruma otoritesine şikâyet etmek (Türkiye: **kvkk.gov.tr** üzerinden KVKK).
+- İşlemeye itiraz etmek ya da sınırlamak.
+- Verini makineyle okunabilir biçimde başka bir servise taşımak.
+- Yerel veri koruma otoritesine şikâyette bulunmak (Türkiye: **kvkk.gov.tr** üzerinden KVKK).
 
 ### 9. Çocuklar
-Fridge 13 yaş altına (GDPR kapsamında 16 yaş altına) yönelik değildir. Bilerek çocuklardan veri toplamayız. Bir çocuğun kaydolduğunu düşünüyorsan **mkceliks@gmail.com** adresine yaz, hesabı silelim.
+Fridge, 13 yaş altına (GDPR kapsamında 16 yaş altına) yönelik değildir. Bilerek çocuklardan veri toplamayız. Bir çocuğun kaydolduğunu düşünüyorsan **mkceliks@gmail.com** adresine yaz, hesabı silelim.
 
 ### 10. Üçüncü taraf servisler
-Sadece listelenen işlevler için:
+Yalnızca listelenen işlevler için kullanırız:
 - **Cloudflare R2** — görsel depolama.
-- **Railway** — uygulama + PostgreSQL hosting.
+- **Railway** — uygulama ve PostgreSQL hosting.
 - **Expo** — mobil build, OTA güncelleme, push yönlendirmesi.
-- **Resend** — işlemsel e-posta (magic-link kodları).
+- **Resend** — işlemsel e-posta (giriş bağlantısı kodları).
 - **Apple + Google** — OAuth, push iletimi, App Store / Play Store dağıtımı.
 
-Her alt işleyiciye sadece ilgili işi yapabileceği kadar veri aktarılır.
+Her alt işleyiciye yalnızca işini yapacak kadar veri aktarılır.
 
 ### 11. Uluslararası aktarım
-Verilerin, talebi karşılayan servise göre AB, ABD veya Türkiye'de işlenebilir. Ülke dışı aktarımlar Standart Sözleşme Maddeleri veya eş değeri güvenceler altındadır.
+Verilerin, talebi karşılayan servise bağlı olarak AB, ABD ya da Türkiye'de işlenebilir. Yurt dışı aktarımlar Standart Sözleşme Maddeleri ya da eşdeğeri güvenceler altında yapılır.
 
 ### 12. Değişiklikler
-Bu politikadaki maddi değişiklikleri uygulama içi bildirim ve yukarıdaki "Yürürlük tarihi" güncellemesi ile duyururuz. Sonraki kullanım kabul anlamına gelir.
+Bu politikadaki önemli değişiklikleri uygulama içi bildirim ve yukarıdaki "Yürürlük tarihi"nin güncellenmesiyle duyururuz. Sonraki kullanım kabul anlamına gelir.

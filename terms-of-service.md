@@ -19,7 +19,7 @@ You must be at least 13 years old (or 16, whichever is higher in your jurisdicti
 - One natural person per account. Multiple accounts to circumvent limits or bans are prohibited.
 
 ### 4. Your content
-- You own the content you create in Fridge (entries, photos, comments, notes). You grant us a worldwide, non-exclusive, royalty-free license to host, store, transmit, display, and back up this content **solely to provide the App to you and the witnesses you explicitly invite**.
+- You own the content you create in Fridge (entries, photos, comments, notes). You grant us a worldwide, non-exclusive, royalty-free license to host, store, transmit, display, and back up this content **solely to provide the App to you and the supporters you explicitly invite**.
 - You are responsible for the content you post. Do not upload anything you do not have rights to, or anything illegal, hateful, sexually explicit, threatening, or infringing.
 - We may remove content that violates these terms, but we are not obligated to monitor it.
 
@@ -27,7 +27,7 @@ You must be at least 13 years old (or 16, whichever is higher in your jurisdicti
 - Fridge offers a Free tier and a Pro tier (monthly / annual).
 - Pro subscriptions are billed through **Apple App Store** (iOS). Prices and renewal terms appear in the App before purchase.
 - Subscriptions auto-renew until you cancel. Cancel via **Settings → Apple ID → Subscriptions** on iOS. Payments are non-refundable except where required by law or at our sole discretion.
-- Free tier features and limits (1 tracker, 1 witness, 30-day history) may change with reasonable advance notice.
+- Free tier features and limits (1 tracker, 1 supporter, 30-day history) may change with reasonable advance notice.
 
 ### 6. Acceptable use
 You agree **not** to:
@@ -39,10 +39,10 @@ You agree **not** to:
 - Upload malware or content that exploits the App or other users' devices.
 - Use the App for any illegal purpose, to facilitate self-harm, or to process category-sensitive data (e.g. health-regulated records) that requires a data-processing agreement we have not signed.
 
-### 7. Witness mechanic
-- Inviting a witness means you explicitly grant that user read access to the specific tracker you invited them to (and its entries, reactions, comments). They cannot create entries for you.
-- You may revoke a witness at any time. Revocation is effective immediately; the witness's cached data on-device may persist for a short period but the server denies further reads.
-- We are not responsible for witnesses acting beyond the ethical spirit of the mechanic (e.g. sharing your content outside the App). You are responsible for whom you invite.
+### 7. Supporter mechanic
+- Inviting a supporter means you explicitly grant that user read access to the specific tracker you invited them to (and its entries, reactions, comments). They cannot create entries for you.
+- You may revoke a supporter at any time. Revocation is effective immediately; the supporter's cached data on-device may persist for a short period but the server denies further reads.
+- We are not responsible for supporters acting beyond the ethical spirit of the mechanic (e.g. sharing your content outside the App). You are responsible for whom you invite.
 
 ### 8. Account suspension + termination
 - We may suspend or terminate an account that violates these Terms, misuses the platform, or creates legal risk for us or other users.
@@ -69,55 +69,55 @@ Questions, complaints, data requests: **mkceliks@gmail.com**.
 ## Türkçe
 
 ### 1. Kabul
-Fridge hesabı oluşturarak veya Uygulamayı kullanarak bu Şartları ve [Gizlilik Politikası](./privacy-policy.md)'nı kabul etmiş olursun. Kabul etmiyorsan Uygulamayı kullanma.
+Fridge hesabı oluşturarak ya da Uygulamayı kullanarak bu Şartları ve [Gizlilik Politikası](./privacy-policy.md)'nı kabul etmiş olursun. Kabul etmiyorsan Uygulamayı kullanma.
 
 ### 2. Kimler kullanabilir?
-En az 13 yaşında (veya bulunduğun ülkede daha yüksekse o yaşta) olmalı ve yaşadığın ülkede bağlayıcı sözleşme yapabiliyor olmalısın. Bir kurum adına kullanıyorsan, kurumu bağlayacak yetkinin olduğunu beyan edersin.
+En az 13 yaşında (ya da bulunduğun ülkede bu yaş daha yüksekse o yaşta) olmalı ve yaşadığın ülkede bağlayıcı sözleşme yapabiliyor olmalısın. Bir kurum adına kullanıyorsan, kurumu bağlayacak yetkinin olduğunu beyan edersin.
 
 ### 3. Hesabın
-- Giriş yöntemini (Apple ID, Google, magic-link e-posta) güvenli tutmak senin sorumluluğundur. Yetkisiz bir kullanım fark edersen hemen bize bildir.
+- Giriş yöntemini (Apple ID, Google hesabı ya da giriş bağlantısı e-postası) güvenli tutmak senin sorumluluğunda. Yetkisiz bir kullanım fark edersen hemen bize bildir.
 - Doğru bilgi vermeyi ve güncel tutmayı kabul edersin.
-- Hesap başına bir gerçek kişi. Limitleri veya yasakları aşmak için birden fazla hesap açmak yasaktır.
+- Hesap başına bir gerçek kişi. Limitleri ya da yasakları aşmak için birden fazla hesap açmak yasaktır.
 
 ### 4. İçeriğin
-- Fridge'te oluşturduğun içeriğin (kayıtlar, fotoğraflar, yorumlar, notlar) sahibi sensin. Bu içeriği, Uygulamayı sana ve açıkça davet ettiğin şahitlere sunabilmemiz için gerekli olan **barındırma, saklama, iletme, görüntüleme ve yedekleme hakkı** bize dünya çapında, tekel-olmayan ve bedelsiz biçimde verirsin.
-- İçeriğinden sen sorumlusun. Üzerinde hakkın olmayan, yasa dışı, nefret dolu, cinsel açık, tehdit edici veya ihlal eden şey yükleme.
-- Şartları ihlal eden içeriği kaldırma hakkımız saklıdır; ancak içeriği izlemek gibi bir yükümlülüğümüz yoktur.
+- Fridge'te oluşturduğun içeriğin (kayıtlar, fotoğraflar, yorumlar, notlar) sahibi sensin. Bu içeriği, Uygulamayı sana ve açıkça davet ettiğin destekçilere sunabilmemiz için gerekli olan **barındırma, saklama, iletme, görüntüleme ve yedekleme hakkını** bize dünya çapında, tekel olmayan ve bedelsiz biçimde verirsin.
+- İçeriğinden sen sorumlusun. Üzerinde hakkın olmayan; yasa dışı, nefret içerikli, cinsel açık, tehdit edici ya da hak ihlali yapan şeyler yükleme.
+- Şartları ihlal eden içeriği kaldırma hakkımız saklıdır; ancak içeriği izleme gibi bir yükümlülüğümüz yoktur.
 
 ### 5. Abonelikler + ödeme
-- Fridge Free ve Pro (aylık / yıllık) planları sunar.
+- Fridge, Ücretsiz ve Pro (aylık / yıllık) planları sunar.
 - Pro abonelikleri **Apple App Store** üzerinden faturalanır. Fiyat ve yenileme koşulları satın almadan önce Uygulama'da görünür.
-- Abonelikler iptal edilene kadar otomatik yenilenir. iOS'ta **Ayarlar → Apple ID → Abonelikler** yolundan iptal edebilirsin. Yasa gereği zorunlu olmadıkça veya tamamen bizim takdirimize bağlı olmadıkça, ödemeler iade edilmez.
-- Free plan özellikleri (1 takip, 1 şahit, 30 gün geçmiş) makul bir önceden bildirim ile değişebilir.
+- Abonelikler iptal edilene kadar otomatik yenilenir. iOS'ta **Ayarlar → Apple ID → Abonelikler** yolundan iptal edebilirsin. Yasa gereği zorunlu olmadıkça ya da tamamen bizim takdirimize bağlı olmadıkça ödemeler iade edilmez.
+- Ücretsiz plan özellikleri (1 takip, 1 destekçi, 30 günlük geçmiş) makul bir önceden bildirimle değişebilir.
 
 ### 6. Kabul edilebilir kullanım
 Aşağıdakileri yapmayacağını kabul edersin:
-- Uygulamayı tersine mühendislikle çözmek, decompile etmek veya scrape etmek (yerel mevzuat aksini söylemedikçe).
-- Kullanıcı veya içerik verisi toplamak için otomatik araç kullanmak.
-- Başkasının kimliğine bürünmek, yanıltıcı hesap açmak veya başka kullanıcılara taciz.
-- Spam veya toplu davet göndermek.
-- Rate limit, kimlik doğrulama veya plan kısıtlamalarını aşmaya çalışmak.
-- Kötü amaçlı yazılım veya Uygulamayı ya da diğer kullanıcıların cihazlarını istismar eden içerik yüklemek.
-- Uygulamayı yasa dışı amaçla, kendine zarar vermeyi kolaylaştırmak için veya özel kategori veri (ör. sağlık kayıtları) işlemek için kullanmak.
+- Uygulamayı tersine mühendislikle çözmek, decompile etmek ya da scrape etmek (yerel mevzuat aksini söylemedikçe).
+- Kullanıcı ya da içerik verisi toplamak için otomatik araç kullanmak.
+- Başkasının kimliğine bürünmek, yanıltıcı hesap açmak ya da diğer kullanıcılara taciz etmek.
+- Spam ya da toplu davet göndermek.
+- Rate-limit, kimlik doğrulama ya da plan kısıtlamalarını aşmaya çalışmak.
+- Kötü amaçlı yazılım ya da Uygulamayı veya diğer kullanıcıların cihazlarını istismar eden içerik yüklemek.
+- Uygulamayı yasa dışı amaçla, kendine zarar vermeyi kolaylaştırmak için ya da özel kategori veri (ör. sağlık kayıtları) işlemek için kullanmak.
 
-### 7. Şahit mekanizması
-- Bir şahidi davet etmek, o kullanıcıya ilgili takibi (kayıtlar, tepkiler, yorumlar dâhil) okuma hakkı verdiğin anlamına gelir. Senin adına kayıt oluşturamazlar.
-- Şahidi istediğin zaman kaldırabilirsin. Kaldırma anında etkili olur; cihaz tarafında önbelleklenmiş veri kısa süre kalabilir ancak sunucu artık veri vermez.
-- Şahitlerin Uygulama dışında içeriği paylaşması gibi davranışlardan sorumlu değiliz. Kimi davet ettiğinden sen sorumlusun.
+### 7. Destekçi mekanizması
+- Bir destekçi davet etmek, o kullanıcıya ilgili takip için (kayıtlar, tepkiler, yorumlar dâhil) okuma erişimi verdiğin anlamına gelir. Destekçiler senin adına kayıt oluşturamaz.
+- Bir destekçiyi istediğin zaman kaldırabilirsin. Kaldırma anında etkili olur; cihaz tarafında önbelleklenmiş veri kısa süre kalabilir ancak sunucu artık veri vermez.
+- Destekçilerin, Uygulama dışında içeriğini paylaşması gibi davranışlardan sorumlu değiliz. Kimi davet ettiğinden sen sorumlusun.
 
 ### 8. Hesap askıya alma + sona erdirme
-- Bu Şartları ihlal eden, platformu kötüye kullanan veya bize ya da diğer kullanıcılara hukuki risk yaratan hesapları askıya alabilir veya sonlandırabiliriz.
+- Bu Şartları ihlal eden, platformu kötüye kullanan ya da bize veya diğer kullanıcılara hukuki risk yaratan hesapları askıya alabilir ya da sonlandırabiliriz.
 - İstediğin zaman **Ayarlar → Hesabı sil** yolundan hesabını silebilirsin. Sona erdirme sonrası ücretli abonelikler App Store'un iade politikasına tabidir.
-- Sona erdirmede kişisel verilerin, [Gizlilik Politikası](./privacy-policy.md)'nın saklama kurallarına göre işlenir.
+- Sona erdirmede kişisel verilerin, [Gizlilik Politikası](./privacy-policy.md)'ndaki saklama kurallarına göre işlenir.
 
 ### 9. Sorumluluk reddi
-Uygulama, **"OLDUĞU GİBİ"** sunulur; açık veya zımni hiçbir garanti verilmez (ticari elverişlilik, belirli bir amaca uygunluk, ihlal etmeme dâhil). Fridge **tıbbi, ruh sağlığı veya terapötik** bir araç değildir. Kayıtlar ve seriler kişisel hatırlatıcıdır, profesyonel tavsiye değildir. Bir kriz yaşıyorsan nitelikli bir profesyonele veya yerel acil servislere başvur.
+Uygulama, **"OLDUĞU GİBİ"** sunulur; açık ya da zımni hiçbir garanti verilmez (ticari elverişlilik, belirli bir amaca uygunluk, ihlal etmeme dâhil). Fridge **tıbbi, ruh sağlığı ya da terapötik** bir araç değildir. Kayıtlar ve seriler kişisel hatırlatıcıdır; profesyonel tavsiye yerine geçmez. Bir kriz yaşıyorsan nitelikli bir profesyonele ya da yerel acil servislere başvur.
 
 ### 10. Sorumluluk sınırı
-Yasaların izin verdiği en geniş ölçüde, İşletmeci'nin Uygulama kullanımından doğan her türlü iddiadaki toplam sorumluluğu şu ikisinden büyük olanla sınırlıdır: (a) iddiadan önceki 12 ayda bize ödediğin tutar, (b) €50. Dolaylı, arızi, sonuç olarak veya cezai zararlardan, veri/kâr/itibar kaybından sorumlu değiliz.
+Yasaların izin verdiği en geniş ölçüde, İşletmeci'nin Uygulama kullanımından doğan her türlü iddiadaki toplam sorumluluğu şu ikisinden büyük olanıyla sınırlıdır: (a) iddiadan önceki 12 ayda bize ödediğin tutar, (b) €50. Dolaylı, arızi, sonuç niteliğindeki ya da cezai zararlardan; veri, kâr veya itibar kaybından sorumlu değiliz.
 
 ### 11. Şartlarda değişiklik
-Şartları güncelleyebiliriz. Maddi değişiklikler uygulama içi ve (varsa) e-posta ile duyurulur. Üstteki "Yürürlük tarihi" mevcut sürümü yansıtır. Sonraki kullanım kabul anlamına gelir.
+Şartları güncelleyebiliriz. Önemli değişiklikler uygulama içi ve (varsa) e-posta ile duyurulur. Üstteki "Yürürlük tarihi" mevcut sürümü yansıtır. Sonraki kullanım kabul anlamına gelir.
 
 ### 12. Uygulanacak hukuk + uyuşmazlıklar
 Bu Şartlar, Türk hukukuna tabidir; uluslararası özel hukuk kuralları saklıdır. Uyuşmazlıklar İstanbul mahkemelerinde çözülür. Yaşadığın ülkedeki tüketici koruma mevzuatı farklı bir forum hakkı tanıyorsa bu hakkın saklıdır.
