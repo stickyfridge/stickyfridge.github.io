@@ -1,4 +1,4 @@
-# Terms of Service — Fridge
+# Terms of Service — StickyFridge
 
 **Effective date:** 2026-04-17
 **Operator:** Mustafa Kemal Çelik, Mersin, Türkiye — **mkceliks@gmail.com**
@@ -8,10 +8,10 @@
 ## English
 
 ### 1. Acceptance
-By creating an account or using Fridge ("the App"), you agree to these Terms and to our [Privacy Policy](./privacy-policy.md). If you do not agree, do not use the App.
+By creating an account or using StickyFridge ("the App"), you agree to these Terms and to our [Privacy Policy](./privacy-policy.md). If you do not agree, do not use the App.
 
-### 2. Who can use Fridge
-You must be at least 13 years old (or 16, whichever is higher in your jurisdiction) and able to form a binding contract under the law where you live. If you use Fridge on behalf of an organization, you represent that you have authority to bind it.
+### 2. Who can use StickyFridge
+You must be at least 13 years old (or 16, whichever is higher in your jurisdiction) and able to form a binding contract under the law where you live. If you use StickyFridge on behalf of an organization, you represent that you have authority to bind it.
 
 ### 3. Your account
 - You are responsible for safeguarding your sign-in method (Apple ID, Google account, or magic-link email). Notify us immediately of any unauthorized use.
@@ -19,12 +19,12 @@ You must be at least 13 years old (or 16, whichever is higher in your jurisdicti
 - One natural person per account. Multiple accounts to circumvent limits or bans are prohibited.
 
 ### 4. Your content
-- You own the content you create in Fridge (entries, photos, comments, notes). You grant us a worldwide, non-exclusive, royalty-free license to host, store, transmit, display, and back up this content **solely to provide the App to you and the supporters you explicitly invite**.
+- You own the content you create in StickyFridge (entries, photos, comments, notes). You grant us a worldwide, non-exclusive, royalty-free license to host, store, transmit, display, and back up this content **solely to provide the App to you and the supporters you explicitly invite**.
 - You are responsible for the content you post. Do not upload anything you do not have rights to, or anything illegal, hateful, sexually explicit, threatening, or infringing.
 - We may remove content that violates these terms, but we are not obligated to monitor it.
 
 ### 5. Subscriptions + billing
-- Fridge offers a Free tier and a Pro tier (monthly / annual).
+- StickyFridge offers a Free tier and a Pro tier (monthly / annual).
 - Pro subscriptions are billed through **Apple App Store** (iOS). Prices and renewal terms appear in the App before purchase.
 - Subscriptions auto-renew until you cancel. Cancel via **Settings → Apple ID → Subscriptions** on iOS. Payments are non-refundable except where required by law or at our sole discretion.
 - Free tier features and limits (1 tracker, 1 supporter, 30-day history) may change with reasonable advance notice.
@@ -50,7 +50,7 @@ You agree **not** to:
 - On termination, your personal data is handled per the [Privacy Policy](./privacy-policy.md) retention rules.
 
 ### 9. Disclaimers
-The App is provided **"AS IS"** without warranties of any kind, whether express or implied, including merchantability, fitness for a particular purpose, or non-infringement. Fridge is **not** a medical, mental-health, or therapeutic tool. Entries and streaks are personal reminders, not professional advice. If you are experiencing crisis, contact a qualified professional or local emergency services.
+The App is provided **"AS IS"** without warranties of any kind, whether express or implied, including merchantability, fitness for a particular purpose, or non-infringement. StickyFridge is **not** a medical, mental-health, or therapeutic tool. Entries and streaks are personal reminders, not professional advice. If you are experiencing crisis, contact a qualified professional or local emergency services.
 
 ### 10. Limitation of liability
 To the maximum extent permitted by law, the Operator's aggregate liability for any claim arising from your use of the App is limited to the greater of: (a) the amount you paid us in the 12 months preceding the claim, or (b) €50. We are not liable for indirect, incidental, consequential, or punitive damages, or for loss of data, profits, or goodwill.
@@ -69,7 +69,7 @@ Questions, complaints, data requests: **mkceliks@gmail.com**.
 ## Türkçe
 
 ### 1. Kabul
-Fridge hesabı oluşturarak ya da Uygulamayı kullanarak bu Şartları ve [Gizlilik Politikası](./privacy-policy.md)'nı kabul etmiş olursun. Kabul etmiyorsan Uygulamayı kullanma.
+StickyFridge hesabı oluşturarak ya da Uygulamayı kullanarak bu Şartları ve [Gizlilik Politikası](./privacy-policy.md)'nı kabul etmiş olursun. Kabul etmiyorsan Uygulamayı kullanma.
 
 ### 2. Kimler kullanabilir?
 En az 13 yaşında (ya da bulunduğun ülkede bu yaş daha yüksekse o yaşta) olmalı ve yaşadığın ülkede bağlayıcı sözleşme yapabiliyor olmalısın. Bir kurum adına kullanıyorsan, kurumu bağlayacak yetkinin olduğunu beyan edersin.
@@ -80,12 +80,12 @@ En az 13 yaşında (ya da bulunduğun ülkede bu yaş daha yüksekse o yaşta) o
 - Hesap başına bir gerçek kişi. Limitleri ya da yasakları aşmak için birden fazla hesap açmak yasaktır.
 
 ### 4. İçeriğin
-- Fridge'te oluşturduğun içeriğin (kayıtlar, fotoğraflar, yorumlar, notlar) sahibi sensin. Bu içeriği, Uygulamayı sana ve açıkça davet ettiğin destekçilere sunabilmemiz için gerekli olan **barındırma, saklama, iletme, görüntüleme ve yedekleme hakkını** bize dünya çapında, tekel olmayan ve bedelsiz biçimde verirsin.
+- StickyFridge'te oluşturduğun içeriğin (kayıtlar, fotoğraflar, yorumlar, notlar) sahibi sensin. Bu içeriği, Uygulamayı sana ve açıkça davet ettiğin destekçilere sunabilmemiz için gerekli olan **barındırma, saklama, iletme, görüntüleme ve yedekleme hakkını** bize dünya çapında, tekel olmayan ve bedelsiz biçimde verirsin.
 - İçeriğinden sen sorumlusun. Üzerinde hakkın olmayan; yasa dışı, nefret içerikli, cinsel açık, tehdit edici ya da hak ihlali yapan şeyler yükleme.
 - Şartları ihlal eden içeriği kaldırma hakkımız saklıdır; ancak içeriği izleme gibi bir yükümlülüğümüz yoktur.
 
 ### 5. Abonelikler + ödeme
-- Fridge, Ücretsiz ve Pro (aylık / yıllık) planları sunar.
+- StickyFridge, Ücretsiz ve Pro (aylık / yıllık) planları sunar.
 - Pro abonelikleri **Apple App Store** üzerinden faturalanır. Fiyat ve yenileme koşulları satın almadan önce Uygulama'da görünür.
 - Abonelikler iptal edilene kadar otomatik yenilenir. iOS'ta **Ayarlar → Apple ID → Abonelikler** yolundan iptal edebilirsin. Yasa gereği zorunlu olmadıkça ya da tamamen bizim takdirimize bağlı olmadıkça ödemeler iade edilmez.
 - Ücretsiz plan özellikleri (1 takip, 1 destekçi, 30 günlük geçmiş) makul bir önceden bildirimle değişebilir.
@@ -111,7 +111,7 @@ Aşağıdakileri yapmayacağını kabul edersin:
 - Sona erdirmede kişisel verilerin, [Gizlilik Politikası](./privacy-policy.md)'ndaki saklama kurallarına göre işlenir.
 
 ### 9. Sorumluluk reddi
-Uygulama, **"OLDUĞU GİBİ"** sunulur; açık ya da zımni hiçbir garanti verilmez (ticari elverişlilik, belirli bir amaca uygunluk, ihlal etmeme dâhil). Fridge **tıbbi, ruh sağlığı ya da terapötik** bir araç değildir. Kayıtlar ve seriler kişisel hatırlatıcıdır; profesyonel tavsiye yerine geçmez. Bir kriz yaşıyorsan nitelikli bir profesyonele ya da yerel acil servislere başvur.
+Uygulama, **"OLDUĞU GİBİ"** sunulur; açık ya da zımni hiçbir garanti verilmez (ticari elverişlilik, belirli bir amaca uygunluk, ihlal etmeme dâhil). StickyFridge **tıbbi, ruh sağlığı ya da terapötik** bir araç değildir. Kayıtlar ve seriler kişisel hatırlatıcıdır; profesyonel tavsiye yerine geçmez. Bir kriz yaşıyorsan nitelikli bir profesyonele ya da yerel acil servislere başvur.
 
 ### 10. Sorumluluk sınırı
 Yasaların izin verdiği en geniş ölçüde, İşletmeci'nin Uygulama kullanımından doğan her türlü iddiadaki toplam sorumluluğu şu ikisinden büyük olanıyla sınırlıdır: (a) iddiadan önceki 12 ayda bize ödediğin tutar, (b) €50. Dolaylı, arızi, sonuç niteliğindeki ya da cezai zararlardan; veri, kâr veya itibar kaybından sorumlu değiliz.

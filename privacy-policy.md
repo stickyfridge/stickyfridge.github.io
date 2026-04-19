@@ -1,4 +1,4 @@
-# Privacy Policy — Fridge
+# Privacy Policy — StickyFridge
 
 **Effective date:** 2026-04-17
 **Contact:** mkceliks@gmail.com
@@ -10,7 +10,7 @@
 ## English
 
 ### 1. Who we are
-"Fridge" ("we", "us", or "the App") is operated by Mustafa Kemal Çelik, Mersin, Türkiye. We can be reached at **mkceliks@gmail.com**.
+"StickyFridge" ("we", "us", or "the App") is operated by Mustafa Kemal Çelik, Mersin, Türkiye. We can be reached at **mkceliks@gmail.com**.
 
 ### 2. What we collect
 
@@ -36,7 +36,7 @@
 - Crash and performance logs via Expo (aggregate device model, OS version, app version, stack traces)
 
 **Contact matching (opt-in only)**
-- If you grant Contacts permission, we send one-way HMAC-SHA256 hashes of your contacts' phone numbers to match you with Fridge users. The plaintext numbers **never leave your device**. Only the hashes are transmitted, and only hashes that match an existing Fridge user are returned to your device.
+- If you grant Contacts permission, we send one-way HMAC-SHA256 hashes of your contacts' phone numbers to match you with StickyFridge users. The plaintext numbers **never leave your device**. Only the hashes are transmitted, and only hashes that match an existing StickyFridge user are returned to your device.
 
 ### 3. What we do NOT collect
 - We do **not** collect plaintext phone numbers of your contacts.
@@ -79,7 +79,7 @@ You have the right to:
 - Lodge a complaint with your local data protection authority (Türkiye: KVKK / `kvkk.gov.tr`; EU: your country's DPA).
 
 ### 9. Children
-Fridge is not intended for users under 13 (or under 16 in GDPR jurisdictions requiring parental consent for data processing). We do not knowingly collect data from children. If you believe a child has signed up, email **mkceliks@gmail.com** and we will delete the account.
+StickyFridge is not intended for users under 13 (or under 16 in GDPR jurisdictions requiring parental consent for data processing). We do not knowingly collect data from children. If you believe a child has signed up, email **mkceliks@gmail.com** and we will delete the account.
 
 ### 10. Third-party services
 We use the following service providers strictly for the functions listed:
@@ -102,7 +102,7 @@ We will notify you of material changes to this policy via in-app notification an
 ## Türkçe
 
 ### 1. Kimiz?
-"Fridge" ("biz" ya da "Uygulama") Mustafa Kemal Çelik tarafından Mersin, Türkiye'den işletiliyor. İletişim: **mkceliks@gmail.com**.
+"StickyFridge" ("biz" ya da "Uygulama") Mustafa Kemal Çelik tarafından Mersin, Türkiye'den işletiliyor. İletişim: **mkceliks@gmail.com**.
 
 ### 2. Topladığımız veriler
 
@@ -128,7 +128,7 @@ We will notify you of material changes to this policy via in-app notification an
 - Expo üzerinden toplanan cihaz modeli, işletim sistemi sürümü, uygulama sürümü ve çökme/performans logları
 
 **Rehber eşleşmesi (yalnızca sen açarsan)**
-- Rehber iznini verirsen, rehberindeki numaraların HMAC-SHA256 tek yönlü özetleri sunucuya gönderilir. **Numaralar telefonundan açık metin olarak asla çıkmaz.** Sadece Fridge'de kayıtlı olanların özetleri eşleşme olarak geri döner.
+- Rehber iznini verirsen, rehberindeki numaraların HMAC-SHA256 tek yönlü özetleri sunucuya gönderilir. **Numaralar telefonundan açık metin olarak asla çıkmaz.** Sadece StickyFridge'de kayıtlı olanların özetleri eşleşme olarak geri döner.
 
 ### 3. Toplamadıklarımız
 - Rehberindeki kişilerin **telefon numaralarını açık metin olarak toplamayız.**
@@ -170,7 +170,7 @@ We will notify you of material changes to this policy via in-app notification an
 - Yerel veri koruma otoritesine şikâyette bulunmak (Türkiye: **kvkk.gov.tr** üzerinden KVKK).
 
 ### 9. Çocuklar
-Fridge, 13 yaş altına (GDPR kapsamında 16 yaş altına) yönelik değildir. Bilerek çocuklardan veri toplamayız. Bir çocuğun kaydolduğunu düşünüyorsan **mkceliks@gmail.com** adresine yaz, hesabı silelim.
+StickyFridge, 13 yaş altına (GDPR kapsamında 16 yaş altına) yönelik değildir. Bilerek çocuklardan veri toplamayız. Bir çocuğun kaydolduğunu düşünüyorsan **mkceliks@gmail.com** adresine yaz, hesabı silelim.
 
 ### 10. Üçüncü taraf servisler
 Yalnızca listelenen işlevler için kullanırız:
